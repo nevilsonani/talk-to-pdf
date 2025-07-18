@@ -82,4 +82,4 @@ A private, local conversational AI app: upload a PDF, ask questions in natural l
 
 **Note:**
 - The AI answering logic is a placeholder. You’ll need to add OpenAI API integration and PDF text retrieval for full functionality.
-- Make sure both frontend and backend are running.
+
