@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment variables
+.env
+
+# Streamlit and model cache
+pdf_embeddings/
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode and IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
